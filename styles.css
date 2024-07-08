@@ -56,25 +56,11 @@ header a {
 }
 
 .section-info h3 {
-  margin: 0 0 10px;
+  margin: 0 0 0px;
   color: #333;
 }
 
 .section-info p {
-  margin: 0;
-  color: #666;
-}
-
-.article {
-  max-width: 800px;
-}
-
-.article h3 {
-  margin: 0 0 0;
-  color: #333;
-}
-
-.article p {
   margin: 0;
   color: #666;
 }
